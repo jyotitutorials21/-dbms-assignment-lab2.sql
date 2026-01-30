@@ -47,4 +47,4 @@ The project demonstrates the creation of relational tables, establishing relatio
 1. Open Oracle SQL*Plus.
 2. Run the SQL file:
    ```sql
-   @CollegeDB.sql
+   lab2_solution.sql
